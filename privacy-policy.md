@@ -1,6 +1,6 @@
 # Privacy Policy for ScanMaster - QR Scanner
 
-**Last Updated: December 2024**
+**Last Updated: December 2025**
 
 ## Introduction
 
@@ -145,4 +145,5 @@ dhuhastudio26@gmail.com
 ---
 
 **Note**: This Privacy Policy is effective as of the date listed above and will remain in effect except with respect to any changes in its provisions in the future, which will take effect immediately after being posted on this page.
+
 
